@@ -10,3 +10,4 @@ try:
 
 finally:
    f.close()
+# Dette er en kommentar skrevet av en annen
