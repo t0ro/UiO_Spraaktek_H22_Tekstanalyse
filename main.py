@@ -4,7 +4,7 @@ etterhvert som jeg legger til flere funksjoner, skal programmet bli bedre og bed
 """
 
 try:
-   f = open("filename.txt", 'r')
+   f = open("in01.txt", 'r')
    cont = f.read()
    print(cont)
 
